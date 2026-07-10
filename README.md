@@ -1,5 +1,18 @@
 # cursorSkin_windows
-此项目为本人原创的一些鼠标、光标皮肤，windows版本。
+此项目为本人原创的一些鼠标、光标皮肤。仅支持windows系统使用。
+
+blueberry.zip
+> 蓝莓主题光标皮肤
+
+halloween.zip
+> 万圣节主题光标皮肤
+
+taiyaki-cursors-minimal.zip
+> 稠鱼烧主题光标皮肤
+
+worldCup.zip
+> 世界杯主题光标皮肤
+
 
 # poster
 <img width="50%" alt="blueberry-poster-3x4" src="https://github.com/user-attachments/assets/ec6b06b6-3ad9-49af-8edd-befb32f4b1ec" />
